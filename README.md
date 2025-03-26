@@ -47,8 +47,8 @@ Após realizar essa preparação dos dados, o objetivo é de criar scripts .sql 
 1. Criar queries para estruturar a tabelas necessárias para o arquivo CSV;
 2. Elaborar queries para importar conteúdo dos arquivos preparados, atentando para o enconding correto;
 3. Desenvolver uma query analítica para responder:
-    3.1. Quais as 10 operadoras com mais despesas em "EVENTOS / SINISTROS CONHECIDOS OU AVISADOS DE ASSISTÊNCIA A SAÚDE MÉDICO HOSPITALAR" no último trimestre?
-    3.2. Quais as 10 operadoras com maiores despesas nessa categoria no último ano?
+    * Quais as 10 operadoras com mais despesas em "EVENTOS / SINISTROS CONHECIDOS OU AVISADOS DE ASSISTÊNCIA A SAÚDE MÉDICO HOSPITALAR" no último trimestre?
+    * Quais as 10 operadoras com maiores despesas nessa categoria no último ano?
 
 
 ## ⏭️ API
