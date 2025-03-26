@@ -24,7 +24,7 @@ Segue abaixo uma lista com as principais dependências do projeto:
 ## ⏭️ Web Scraping
 
 Possui as seguintes funções:
-1. Acessar site: https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos;
+1. Acessar site: https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos
 2. Realizar o download dos arquivos "Anexo I" e "Anexo II" no formato PDF;
 3. Compactar os dois arquivos baixados em um único arquivo no formato ZIP.
 
