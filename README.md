@@ -8,6 +8,7 @@ Serão desenvolvidos projetos de "Web Scraping" (coleta de dados de um site), tr
 
 * [Python](https://www.python.org/)
 * [Selenium](https://www.selenium.dev/pt-br/)
+* [Pandas](https://pandas.pydata.org/)
 * [PostgreSQL](https://www.postgresql.org/)
 
 
