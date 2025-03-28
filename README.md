@@ -1,7 +1,7 @@
 # Teste de nivelamento IntuitiveCare
 
 Os projetos abordados nesse teste de nivelamento são conceitos básicos para refletir algumas tarefas do cotidiano da empresa.
-Serão desenvolvidos projetos de "Web Scraping" (coleta de dados de um site), transformação de dados, de banco de dados (PostgreSQL) e utilização de API.
+Serão desenvolvidos projetos de "Web Scraping" (coleta de dados de um site), transformação de dados, de banco de dados (MySQL) e utilização de API.
 
 
 ### Tecnologias Utilizadas
@@ -9,7 +9,8 @@ Serão desenvolvidos projetos de "Web Scraping" (coleta de dados de um site), tr
 * [Python](https://www.python.org/)
 * [Selenium](https://www.selenium.dev/pt-br/)
 * [Pandas](https://pandas.pydata.org/)
-* [PostgreSQL](https://www.postgresql.org/)
+* [MySQL]()
+* [Flask]()
 
 
 ## Dependências e Versões Necessárias
